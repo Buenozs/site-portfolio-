@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pedro Bueno — Portfólio Profissional
 
 Site pessoal profissional com design moderno, formulário de contato funcional e backend Node.js.
