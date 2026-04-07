@@ -1,0 +1,27 @@
+{
+  "name": "site-pessoal",
+  "version": "2.0.0",
+  "description": "Portfólio profissional de Pedro Bueno — Desenvolvedor Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buenozs/site-pessoal.git"
+  },
+  "keywords": ["portfolio", "web", "developer"],
+  "author": "Pedro Bueno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Buenozs/site-pessoal/issues"
+  },
+  "homepage": "https://github.com/Buenozs/site-pessoal#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "nodemailer": "^8.0.1"
+  }
+}
